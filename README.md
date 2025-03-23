@@ -1,1 +1,2 @@
 # Power-Bi-dashboard-for-Ecommerce-Sale
+Developed an interactive Sales Performance Dashboard in Power BI to track daily, weekly, and monthly sales trends. Integrated data from Excel to analyze revenue, profit margins, and product sales performance. Implemented DAX measures for dynamic KPIs such as Total by payment mode , total revenue , etc. Enhanced decision-making by providing category-wise and region-wise sales insights .
